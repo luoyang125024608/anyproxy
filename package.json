@@ -105,8 +105,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alibaba/anyproxy"
+    "url": "https://github.com/luoyang125024608/anyproxy.git"
   },
-  "author": "ottomao@gmail.com",
+  "author": "luoyangyangyang",
   "license": "Apache-2.0"
 }
