@@ -322,9 +322,6 @@ class ProxyServer extends ProxyCore {
 
     this.proxyWebinterfaceConfig = config.webInterface;
     this.recorder = recorder;
-    this.recorder.on('update', (data) => {
-      this.emit('update', data)
-    })
     this.webServerInstance = null;
   }
 
